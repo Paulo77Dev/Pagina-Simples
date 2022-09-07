@@ -2,7 +2,7 @@
 
 
 # COISAS DA ECOMP
-### É uma página criado por Paulo madson da silva estudante deengenharia de computação da universidade federal do rio grande e o objetivo dele com a página é levar conhecimente e meme do mundo da computação para toda a comunidade que segue. 
+### É uma página criado por Paulo madson da silva estudante de engenharia de computação da universidade federal do rio grande e o objetivo dele com a página é levar conhecimente e meme do mundo da computação para toda a comunidade que segue. 
 
 #### Mas por enquanto é só uma página para testar meus conhecimentos em linguagens WEB.
 
